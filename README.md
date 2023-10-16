@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abu Salek
-- 👀 I’m interested in AI and Software Development
+- 👀 I’m interested in AI, IoT and Software Development
 - 🔭 I'm currently working on AI
 - 🌱 I’m currently learning Different topics on AI
 - 💞️ I’m looking to collaborate on Project
