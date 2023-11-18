@@ -5,13 +5,7 @@
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me: abusalek877@gmail.com
 
-<div>
-<div style="width: 100%;" align="center" >
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=salek877">
-</a>
-</div>
-</div>
+
 
 <!---
 salek877/salek877 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
