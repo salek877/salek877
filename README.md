@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abu Salek
+- 👋 Hi, I’m Salek
 - 👀 I’m interested in AI, IoT and Software Development
 - 🔭 I'm currently working on AI
 - 🌱 I’m currently learning Different topics on AI
